@@ -40,48 +40,26 @@
 ### 👨‍💻 Programming and markup languages
 
 <p>
-    <a href="https://github.com/search?q=user%3AIsrailovSardor+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AIsrailovSardor+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AIsrailovSardor+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3AIsrailovSardor+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://github.com/topics/react?q=user%3AIsrailovSardor">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    </a>
-    <a href="https://github.com/topics/nexjs?q=user%3AIsrailovSardor">
         <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/react-native?q=user%3AIsrailovSardor">
         <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-    </a>
-    <a href="https://github.com/topics/redux?q=user%3AIsrailovSardor">
         <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/react-query?q=user%3AIsrailovSardor">
         <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/nodejs?q=user%3AIsrailovSardor">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/sass?q=user%3AIsrailovSardor">
         <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/styled-components?q=user%3AIsrailovSardor">
         <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/mui?q=user%3AIsrailovSardor">
         <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/tailwind?q=user%3AIsrailovSardor">
         <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-    </a>
-    <a href="https://github.com/topics/telegram?q=user%3AIsrailovSardor">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
-    </a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
