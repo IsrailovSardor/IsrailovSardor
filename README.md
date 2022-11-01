@@ -21,7 +21,7 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm Israilov Sardor, Fullstack Developer & from Kyrgyzstan
+    Hi, I'm Israilov Sardor, Frontend Developer & from Kyrgyzstan
     <br>
     💻 I love writing code and learn anythings about it
     <br>
